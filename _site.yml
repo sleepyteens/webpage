@@ -6,7 +6,7 @@ output:
     self_contained: no  
     theme: flatly  
 navbar:  
-  title: "Sleepyteens" 
+  title: "#sleepyteens" 
   left:
     - text: "Home"
       href: index.html
